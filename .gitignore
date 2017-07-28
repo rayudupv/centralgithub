@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 *.class*
 *.log
+=======
+
+*.class
+*.ext
+1.class1
+>>>>>>> master
